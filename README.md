@@ -13,7 +13,7 @@ Based on the original assignment's `.ipynb` file
 
 ## Assignment 2  
 ### Upload Status  
-Written assignment1 uploaded on **October 30, 2025** ，including problem 1 and problem 4(These are the only written part I think). 
+Written assignment2 uploaded on **October 30, 2025** ，including problem 1 and problem 4(These are the only written part I think). 
  
  
  
