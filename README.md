@@ -1,5 +1,5 @@
 # Deep-generative-models  
-Homework Solutions
+Homework Solutions of MIT 6.S978 Fall2024
 
 *For learning and communication purposes only. No guarantees of correctness.*  
  
