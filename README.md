@@ -14,6 +14,7 @@ HW1.py is based on the original assignment's `.ipynb` file
 ## Assignment 2  
 ### Upload Status  
 Written assignment2 uploaded on **October 30, 2025** ，including problem 1 and problem 4(These are the only written part I think). 
+
 Code assignment uploaded on **October 31, 2025** 
  
  
