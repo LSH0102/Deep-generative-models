@@ -22,6 +22,6 @@ Code assignment uploaded on **October 31, 2025**
 Code assignment uploaded on **November 2, 2025** 
 Deleted ablation study to restrict the file size under 100M
 
-Referenced the architecture in [MNIST GAN notebook](https://github.com/prcastro/pytorch-gan/blob/master/MNIST%20GAN.ipynb) for conditional GAN, the result is desirable.
+Referenced the architecture in [MNIST GAN notebook](https://github.com/prcastro/pytorch-gan/blob/master/MNIST%20GAN.ipynb) for conditional GAN, the result is desired.
  
  
