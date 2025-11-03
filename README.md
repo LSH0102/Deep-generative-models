@@ -29,5 +29,7 @@ Referenced the architecture in [MNIST GAN notebook](https://github.com/prcastro/
 Code assignment uploaded on **November 3, 2025** 
 I didn't do all ablation studies.
 
-In the function **backward_sde** of **Continuous-time Stochastic Process**, I changed the '+' to '-':```python x[t-1] = x[t] - delta_x
+In the function **backward_sde** of **Continuous-time Stochastic Process**, I changed the '+' to '-':
+```python
+x[t-1] = x[t] - delta_x
 ```
