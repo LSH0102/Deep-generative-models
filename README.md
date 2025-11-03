@@ -24,4 +24,10 @@ Deleted ablation study to restrict the file size under 100M
 
 Referenced the architecture in [MNIST GAN notebook](https://github.com/prcastro/pytorch-gan/blob/master/MNIST%20GAN.ipynb) for conditional GAN, the result is desired.
  
- 
+## Assignment 4  
+### Upload Status  
+Code assignment uploaded on **November 3, 2025** 
+I didn't do all ablation studies.
+
+In the function **backward_sde** of **Continuous-time Stochastic Process**, I changed the '+' to '-':'''python x[t-1] = x[t] - delta_x
+'''
